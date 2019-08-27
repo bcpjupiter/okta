@@ -1,0 +1,16 @@
+{
+  "entities": [
+    {
+      "GMQ": [
+        "Okta",
+        "Read the report"
+      ],
+      "GMQ:link": [
+        "https://www.okta.com/",
+        "https://www.okta.com/resources/access-management-leader-gartner-magic-quadrant/"
+      ],
+      "Demo": "Watch now",
+      "Demo:link": "https://www.okta.com/resources/content-library/?type=demo_video"
+    }
+  ]
+}
